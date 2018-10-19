@@ -2,6 +2,8 @@
 
 This is just a plugin I made for a website to dynamically change the password of a Wordpress page every 1, 12, or 24 hours.
 
+This plugin sends via email the new password to all admin users in wordpress.
+
 ## Installation
 
 ### Requirements
